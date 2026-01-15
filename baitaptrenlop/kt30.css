@@ -35,7 +35,7 @@ body{
   text-decoration: none;
   margin:5px;
   transition: 0.2s;  
-  font-weight: bold;                 ff
+  font-weight: bold;                 
 }
 
 .btn:hover {
@@ -75,3 +75,4 @@ body{
 .footer p{
     margin:10px;
 }
+
